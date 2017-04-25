@@ -4,7 +4,7 @@
  * Workshop.
  *
  * The Intent Schema, Custom Slots and Sample Utterances for this skill, as well
- * as testing instructions are located at https://github.com/mlh/mlh-localhost-alexa
+ * as testing instructions are located at https://github.com/mlh/mlh-localhost-hacking-with-alexa
  **/
 
 'use strict';
