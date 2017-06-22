@@ -1,6 +1,6 @@
 {
   "name": "mlh-localhost-alexa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An AWS Lambda Function to return randoms facts about Major League Hacking for Alexa.",
   "main": "index.js",
   "scripts": {

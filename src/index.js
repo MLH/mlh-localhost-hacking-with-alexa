@@ -13,10 +13,10 @@
 const FACTS = [
   "Major League Hacking is commonly called M, L, H.",
   "Major League Hacking's mission is to empower hackers.",
-  "Over 65,000 student hackers participated in Major League Hacking hackathons in 2016.",
+  "Over 65,000 student hackers participated in Major League Hacking hackathons in 2017.",
   "Major League Hacking was founded in 2013 by Mike Swift and Jon Gottfried.",
-  "Hackers created over 12,000 projects at Major League Hacking hackathons in 2016.",
-  "Over 200 universities and high schools around the world hosted Major League Hacking hackathons in 2016.",
+  "Hackers created over 12,000 projects at Major League Hacking hackathons in 2017.",
+  "Over 200 universities and high schools around the world hosted Major League Hacking hackathons in 2017.",
   "Major League Hacking is headquartered in New York City."
 ];
 
